@@ -1,0 +1,14 @@
+# Sliding Window Pattern – Easy and Medium Problems
+
+This repository contains problems illustrating the Sliding Window technique, with **brute-force** and **optimal solutions** in Python.
+
+---
+
+## Easy Problems
+
+### Problem 1 – Maximum Sum Subarray of Size K
+
+**Problem Statement:**  
+Given an array of integers `arr` and an integer `k`, find the maximum sum of any contiguous subarray of size `k`.
+
+**Example:**
